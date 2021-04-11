@@ -42,4 +42,4 @@ Generally, second-order Perceptron and Adaline units perform better than a Perce
 
 ## references
 - [https://pabloinsente.github.io/the-adaline](https://pabloinsente.github.io/the-adaline)
-
+- [https://pabloinsente.github.io/the-perceptron](https://pabloinsente.github.io/the-perceptron) TODO
